@@ -1,0 +1,65 @@
+
+body {
+    margin: 0px;
+    background: repeating-linear-gradient(#009b55, #1d1d1d);
+    height: 100vh;
+    font-family: "Yu Gothic UI Semibold", serif;
+}
+nav {
+    background-color: #1d1d1d;
+    margin: 50px;
+    padding: 1px;
+    border-radius: 20px;
+    width: 95%;
+}
+nav div {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.container{
+    background: rgba(29, 28, 28, 0.7);
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+    padding: 50px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 0 15px 6px rgb(2, 208, 95);
+    width: 75%;
+}
+.textContainer{
+    background-color: #6b6b6b;
+    border-radius: 10px;
+    width: 40%;
+    height: 80px;
+    font-size: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+.container .buttContainer button {
+    background-color: #27984e;
+    color: white;
+    height: 40px;
+    width: 210px;
+    border: none;
+    margin: 20px;
+    cursor: pointer;
+    border-radius: 20px;
+    font-size: 17px;
+}
+.gradesClass{
+    background: rgba(29, 28, 28, 0.7);
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+    padding: 50px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 0 15px 6px rgb(2, 208, 95);
+    width: 75%; ;
+}
